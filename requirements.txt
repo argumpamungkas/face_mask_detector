@@ -1,5 +1,7 @@
-tensorflow # (membuat neurol network, training, membaca dataset, menyimpan model, convert to .tflite)
-numpy # untuk operasi data numerik
+tensorflow~=2.21.0
+numpy~=2.2.6
 pillow # membaca dan proses gambar e.g -> .jpg, .png
 matplotlib # membuat grafik e.g -> accuracy.png
 scikit-learn # proses machine learning
+opencv-python~=5.0.0.93
+mediapipe~=1.0.1
